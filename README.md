@@ -3,12 +3,12 @@ Jva Program To Print Right Triangle Number Pattern
 package righttrianglenumberprogram;
 public class RightTriangleNumberProgram {
     public static void main(String[] args) {
-        int i,j;
+        int i,s;
         for(i=1;i<=5;i++)
         {
-                for(j=1;j<=i;j++)
+                for(s=1;s<=i;s++)
                 {
-        System.out.print(j);
+        System.out.print(s);
     }
         System.out.println();
             
